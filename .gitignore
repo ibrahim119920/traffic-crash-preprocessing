@@ -1,0 +1,23 @@
+# Data mentah, referensi yang diunduh, cache, dan hasil pipeline.
+/chicago_traffic/
+/tmp/
+
+# Lingkungan lokal dan hasil build.
+/.venv/
+/.ipynb_checkpoints/
+/__pycache__/
+*.py[cod]
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Draf tugas dan konteks dari proyek lain yang tetap disimpan secara lokal.
+/AI_CONTEXT.md
+/Chicago_Data_Preprocessing.ipynb
+/traffic-crash-preprocessing-work.ipynb
+/traffic-crash-preprocessing-codex.ipynb
+/traffic_crash_missing_pipeline.py
+/Laporan Individual Project.pdf
